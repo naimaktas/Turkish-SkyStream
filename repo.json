@@ -1,13 +1,12 @@
 {
   "name": "TurkSinema",
-  "packageName": "turksinema",
-  "description": "SkyStream TurkSinema Eklenti Deposu",
+  "id": "turksinema",
   "manifestVersion": 1,
   "repos": [],
   "plugins": [
     {
       "name": "SetFilmIzle",
-      "packageName": "setfilmizle",
+      "id": "setfilmizle",
       "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/src/setfilmizle.js"
     }
   ]
