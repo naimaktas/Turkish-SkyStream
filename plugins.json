@@ -1,9 +1,0 @@
-{
-  "name": "TurkSinema",
-  "plugins": [
-    {
-      "name": "SetFilmIzle",
-      "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/src/setfilmizle.js"
-    }
-  ]
-}
