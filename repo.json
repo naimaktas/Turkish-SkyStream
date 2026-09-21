@@ -1,9 +1,9 @@
 {
-  "name": "Turkish Repository | @agnogad",
+  "name": "Turkish Repository",
   "id": "com.turkish.repo",
   "description": "Türkçe eklenti reposu",
   "manifestVersion": 1,
-  "pluginLists": [
+  "plugins": [
     "https://raw.githubusercontent.com/naimaktas/Turkish-SkyStream/main/plugins.json"
   ]
 }
