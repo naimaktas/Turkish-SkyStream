@@ -1,13 +1,11 @@
 [
   {
-    "name": "Fullhdfilmizlesene",
-    "internalName": "fullhdfilmizlesene",
-    "url": "https://raw.githubusercontent.com/naimaktas/Turkish-SkyStream/main/src/fullhdfilmizlesene.js",
-    "icon": "https://www.fullhdfilmizlesene.tv/favicon.ico",
-    "version": 2,
-    "description": "film için kaynak",
-    "authors": ["naimaktas"],
-    "language": "tr",
-    "types": ["movie"]
+    "name": "SetFilmIzle",
+    "description": "SetFilmIzle Sağlayıcısı",
+    "version": 1,
+    "author": "Wiojelt",
+    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/src/setfilmizle.js",
+    "icon": "https://www.setfilmizle.ltd/favicon.ico",
+    "type": "movie"
   }
 ]
