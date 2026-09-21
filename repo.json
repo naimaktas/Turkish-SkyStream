@@ -1,13 +1,12 @@
 {
   "name": "TurkSinema",
-  "id": "turksinema",
+  "packageName": "turksinema",
   "manifestVersion": 1,
-  "repos": [],
   "plugins": [
     {
       "name": "SetFilmIzle",
-      "id": "setfilmizle",
-      "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/src/setfilmizle.js"
+      "packageName": "setfilmizle",
+      "link": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/src/setfilmizle.js"
     }
   ]
 }
