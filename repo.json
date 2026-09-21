@@ -3,7 +3,7 @@
   "id": "com.turkish.repo",
   "description": "Türkçe eklenti reposu",
   "manifestVersion": 1,
-  "plugins": [
+  "pluginLists": [
     "https://raw.githubusercontent.com/naimaktas/Turkish-SkyStream/main/plugins.json"
   ]
 }
