@@ -1,11 +1,9 @@
-[
-  {
-    "name": "SetFilmIzle",
-    "description": "SetFilmIzle Sağlayıcısı",
-    "version": 1,
-    "author": "Wiojelt",
-    "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/src/setfilmizle.js",
-    "icon": "https://www.setfilmizle.ltd/favicon.ico",
-    "type": "movie"
-  }
-]
+{
+  "name": "TurkSinema",
+  "plugins": [
+    {
+      "name": "SetFilmIzle",
+      "url": "https://raw.githubusercontent.com/Wiojelt/TurkSinema/main/src/setfilmizle.js"
+    }
+  ]
+}
