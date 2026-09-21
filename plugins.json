@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Fullhdfilmizlesene",
+    "internalName": "fullhdfilmizlesene",
+    "url": "https://raw.githubusercontent.com/naimaktas/Turkish-SkyStream/main/src/fullhdfilmizlesene.js",
+    "icon": "https://www.fullhdfilmizlesene.tv/favicon.ico",
+    "version": 2,
+    "description": "film için kaynak",
+    "authors": ["naimaktas"],
+    "language": "tr",
+    "types": ["movie"]
+  }
+]
